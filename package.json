@@ -1,0 +1,32 @@
+{
+  "name": "@emmanuel312/react-native-statusbar",
+  "version": "1.0.0",
+  "description": "A react native statusbar component that works on android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "author": "emmanuel312",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  },
+  "dependencies": {
+    "styled-components": "^5.1.0"
+  }
+}
