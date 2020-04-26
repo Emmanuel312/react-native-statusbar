@@ -1,10 +1,14 @@
 {
   "name": "@emmanuel312/react-native-statusbar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A react native statusbar component that works on android and iOS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmanuel312/react-native-statusbar"
   },
   "keywords": [
     "react-native",
@@ -20,7 +24,13 @@
   "author": "emmanuel312",
   "license": "ISC",
   "devDependencies": {
-    "metro-react-native-babel-preset": "^0.59.0"
+    "@types/jest": "^25.2.1",
+    "@types/react": "^16.9.34",
+    "@types/react-native": "^0.62.4",
+    "@types/react-test-renderer": "^16.9.2",
+    "@types/styled-components": "^5.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "typescript": "^3.8.3"
   },
   "peerDependencies": {
     "react": "^16.13.1",
