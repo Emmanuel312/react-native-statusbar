@@ -1,6 +1,6 @@
 {
   "name": "@emmanuel312/react-native-statusbar",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A react native statusbar component that works on android and iOS",
   "main": "index.js",
   "scripts": {
