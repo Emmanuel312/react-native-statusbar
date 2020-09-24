@@ -1,6 +1,6 @@
 # React Native StatusBar
 
-This library is a StatusBar React Native wrapper that allows you to use a backgroundColor on Android and iOS(not possible without this library).
+This library is a StatusBar React Native wrapper that allows you to use a backgroundColor on Android and iOS (not possible without this library).
 
 ## Usage
 
